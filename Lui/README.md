@@ -1,2 +1,3 @@
-Lui
-Design Pattern Study.
+# Lui
+  
+  Design Pattern Study.
